@@ -60,7 +60,22 @@
       "ProjectGuid": "dec1b23e-4ba7-4cb2-a77f-b32d1e1b3ad4",
       "DisplayName": "Decorator",
       "ColorIndex": 11
+    },
+    "a5e371a8-3ba5-4cae-8f5c-a007ed0d70ba": {
+      "ProjectGuid": "a5e371a8-3ba5-4cae-8f5c-a007ed0d70ba",
+      "DisplayName": "FlyWeight",
+      "ColorIndex": 12
+    },
+    "ac63552e-4cdb-40d1-9bf2-f817ca2053dc": {
+      "ProjectGuid": "ac63552e-4cdb-40d1-9bf2-f817ca2053dc",
+      "DisplayName": "Proxy",
+      "ColorIndex": 13
+    },
+    "b411d31e-6c1c-45cf-99ef-109cfe1d6abf": {
+      "ProjectGuid": "b411d31e-6c1c-45cf-99ef-109cfe1d6abf",
+      "DisplayName": "Facade",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 15
 }

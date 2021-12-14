@@ -22,7 +22,7 @@ public class MixAndMatchBundle : TeaCarton
 
     public override void BuildBundle(Dictionary<TeaCarton, int> order)
     {
-        foreach ((var teaCarton, var quantity) in order)
+        foreach (var (teaCarton, quantity) in order)
         {
             for (var i = 0; i < quantity; i++)
             {
