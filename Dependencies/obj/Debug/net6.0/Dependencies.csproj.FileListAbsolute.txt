@@ -1,0 +1,12 @@
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\bin\Debug\net6.0\Dependencies.deps.json
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\bin\Debug\net6.0\Dependencies.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\bin\Debug\net6.0\ref\Dependencies.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\bin\Debug\net6.0\Dependencies.pdb
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\obj\Debug\net6.0\Dependencies.csproj.AssemblyReference.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\obj\Debug\net6.0\Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\obj\Debug\net6.0\Dependencies.AssemblyInfoInputs.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\obj\Debug\net6.0\Dependencies.AssemblyInfo.cs
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\obj\Debug\net6.0\Dependencies.csproj.CoreCompileInputs.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\obj\Debug\net6.0\Dependencies.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\obj\Debug\net6.0\ref\Dependencies.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\Dependencies\obj\Debug\net6.0\Dependencies.pdb

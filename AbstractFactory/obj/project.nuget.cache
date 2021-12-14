@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "maoxMblpoXDzUEsD0Y04CL4SFG10/isifHe+jHXRl3bv4pot9sPcii9EXR9Y/ASQYoTsD1wXyUdYk9D7+0DjGQ==",
+  "success": true,
+  "projectFilePath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

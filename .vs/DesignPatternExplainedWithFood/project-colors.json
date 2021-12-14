@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "16f183f1-ea9c-4d11-b952-3afcee9bcdd1": {
+      "ProjectGuid": "16f183f1-ea9c-4d11-b952-3afcee9bcdd1",
+      "DisplayName": "Dependencies",
+      "ColorIndex": 0
+    },
+    "e4a1fd32-7dd6-43ec-b142-6da9c7822a12": {
+      "ProjectGuid": "e4a1fd32-7dd6-43ec-b142-6da9c7822a12",
+      "DisplayName": "CreationalPattern",
+      "ColorIndex": 1
+    },
+    "1825bdf3-9a56-4361-ab95-be1f1e9784ad": {
+      "ProjectGuid": "1825bdf3-9a56-4361-ab95-be1f1e9784ad",
+      "DisplayName": "Singleton",
+      "ColorIndex": 2
+    },
+    "a516cb32-42a7-4a76-8738-f019aefa2aa1": {
+      "ProjectGuid": "a516cb32-42a7-4a76-8738-f019aefa2aa1",
+      "DisplayName": "Builder",
+      "ColorIndex": 3
+    },
+    "8b645deb-4f2e-4d14-8c3c-848971dc20f6": {
+      "ProjectGuid": "8b645deb-4f2e-4d14-8c3c-848971dc20f6",
+      "DisplayName": "AbstractFactory",
+      "ColorIndex": 4
+    },
+    "43e2a29a-5101-4fa8-be75-62aae9bb80a2": {
+      "ProjectGuid": "43e2a29a-5101-4fa8-be75-62aae9bb80a2",
+      "DisplayName": "FactoryMethod",
+      "ColorIndex": 5
+    },
+    "b7cf4614-53f6-42e4-b463-91d9fd7befa9": {
+      "ProjectGuid": "b7cf4614-53f6-42e4-b463-91d9fd7befa9",
+      "DisplayName": "Prototype",
+      "ColorIndex": 6
+    },
+    "8025b942-af43-4e52-9b78-6e86f48bd343": {
+      "ProjectGuid": "8025b942-af43-4e52-9b78-6e86f48bd343",
+      "DisplayName": "StructuralPattern",
+      "ColorIndex": 7
+    },
+    "36010440-e255-46ed-9562-b97c30178909": {
+      "ProjectGuid": "36010440-e255-46ed-9562-b97c30178909",
+      "DisplayName": "Adapter",
+      "ColorIndex": 8
+    },
+    "6a92d03a-00df-4702-92e9-53b495cdb4bb": {
+      "ProjectGuid": "6a92d03a-00df-4702-92e9-53b495cdb4bb",
+      "DisplayName": "Bridge",
+      "ColorIndex": 9
+    },
+    "6ea735dd-0779-4fce-9923-d6ad1947a2fb": {
+      "ProjectGuid": "6ea735dd-0779-4fce-9923-d6ad1947a2fb",
+      "DisplayName": "Composite",
+      "ColorIndex": 10
+    },
+    "dec1b23e-4ba7-4cb2-a77f-b32d1e1b3ad4": {
+      "ProjectGuid": "dec1b23e-4ba7-4cb2-a77f-b32d1e1b3ad4",
+      "DisplayName": "Decorator",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

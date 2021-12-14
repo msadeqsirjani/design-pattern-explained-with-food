@@ -1,0 +1,15 @@
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\bin\Debug\net6.0\StructuralPattern.deps.json
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\bin\Debug\net6.0\StructuralPattern.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\bin\Debug\net6.0\ref\StructuralPattern.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\bin\Debug\net6.0\StructuralPattern.pdb
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\bin\Debug\net6.0\Dependencies.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\bin\Debug\net6.0\Dependencies.pdb
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\StructuralPattern.csproj.AssemblyReference.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\StructuralPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\StructuralPattern.AssemblyInfoInputs.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\StructuralPattern.AssemblyInfo.cs
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\StructuralPattern.csproj.CoreCompileInputs.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\StructuralPattern.csproj.CopyComplete
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\StructuralPattern.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\ref\StructuralPattern.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\StructuralPattern\obj\Debug\net6.0\StructuralPattern.pdb

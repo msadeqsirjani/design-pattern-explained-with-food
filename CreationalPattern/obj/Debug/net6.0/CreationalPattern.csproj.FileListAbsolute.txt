@@ -1,0 +1,15 @@
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\bin\Debug\net6.0\CreationalPattern.deps.json
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\bin\Debug\net6.0\CreationalPattern.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\bin\Debug\net6.0\ref\CreationalPattern.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\bin\Debug\net6.0\CreationalPattern.pdb
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\bin\Debug\net6.0\Dependencies.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\bin\Debug\net6.0\Dependencies.pdb
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\CreationalPattern.csproj.AssemblyReference.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\CreationalPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\CreationalPattern.AssemblyInfoInputs.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\CreationalPattern.AssemblyInfo.cs
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\CreationalPattern.csproj.CoreCompileInputs.cache
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\CreationalPattern.csproj.CopyComplete
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\CreationalPattern.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\ref\CreationalPattern.dll
+E:\Code\Repos\DesignPatternExplainedWithFood\CreationalPattern\obj\Debug\net6.0\CreationalPattern.pdb
