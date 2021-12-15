@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jtFXHFpbjoAwAjMYbkfr7hhDoQb4nfvJc+LALCkndksz3bwuxdismFlYQrV2uLs1wvreuBP+ghM2qYc2yEd3+w==",
+  "dgSpecHash": "Ujyy0QdeVjsG1XrGwg2JeX5wR6DWkIyxrBqZEv4ppMrsG/J3q8mY7k+ac8xeNgT98gCOs4iG+Q2hMtoW9JB7ag==",
   "success": true,
-  "projectFilePath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Proxy\\Proxy.csproj",
+  "projectFilePath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Proxy\\Proxy.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\SQ\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

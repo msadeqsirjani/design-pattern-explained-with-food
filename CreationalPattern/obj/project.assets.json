@@ -64,19 +64,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\SQ\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\CreationalPattern\\CreationalPattern.csproj",
+      "projectUniqueName": "C:\\Personal\\Code\\design-pattern-explained-with-food\\CreationalPattern\\CreationalPattern.csproj",
       "projectName": "CreationalPattern",
-      "projectPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\CreationalPattern\\CreationalPattern.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\CreationalPattern\\obj\\",
+      "projectPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\CreationalPattern\\CreationalPattern.csproj",
+      "packagesPath": "C:\\Users\\SQ\\.nuget\\packages\\",
+      "outputPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\CreationalPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -90,8 +90,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj": {
-              "projectPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj"
+            "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj": {
+              "projectPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj"
             }
           }
         }
@@ -126,7 +126,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

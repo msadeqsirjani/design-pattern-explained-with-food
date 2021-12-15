@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQSgK1TmEKyl7YjSSvSebb3s98CqTfQ2EypwrwxTmRDQINb0ntZDDVWfdQ1IJpIPNrNVgLupvbHuY+vaScZGow==",
+  "dgSpecHash": "MkCwsm7rwNTX1IIwsVeOSabH2XgGOOsBcN5xAOQ5bzl26iskv+vcUrh63MsJn3G+3ZJjnjpvjcgCJxAQQJXpdA==",
   "success": true,
-  "projectFilePath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj",
+  "projectFilePath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

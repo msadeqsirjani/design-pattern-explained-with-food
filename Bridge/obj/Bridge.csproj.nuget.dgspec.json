@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Bridge\\Bridge.csproj": {}
+    "C:\\Personal\\Code\\design-pattern-explained-with-food\\Bridge\\Bridge.csproj": {}
   },
   "projects": {
-    "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Bridge\\Bridge.csproj": {
+    "C:\\Personal\\Code\\design-pattern-explained-with-food\\Bridge\\Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Bridge\\Bridge.csproj",
+        "projectUniqueName": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Bridge\\Bridge.csproj",
         "projectName": "Bridge",
-        "projectPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Bridge\\Bridge.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Bridge\\obj\\",
+        "projectPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Bridge\\Bridge.csproj",
+        "packagesPath": "C:\\Users\\SQ\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Bridge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj": {
-                "projectPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj"
+              "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj": {
+                "projectPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj"
               },
-              "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\StructuralPattern\\StructuralPattern.csproj": {
-                "projectPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\StructuralPattern\\StructuralPattern.csproj"
+              "C:\\Personal\\Code\\design-pattern-explained-with-food\\StructuralPattern\\StructuralPattern.csproj": {
+                "projectPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\StructuralPattern\\StructuralPattern.csproj"
               }
             }
           }
@@ -61,21 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj": {
+    "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj",
+        "projectUniqueName": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj",
         "projectName": "Dependencies",
-        "projectPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\obj\\",
+        "projectPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj",
+        "packagesPath": "C:\\Users\\SQ\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -115,21 +115,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\StructuralPattern\\StructuralPattern.csproj": {
+    "C:\\Personal\\Code\\design-pattern-explained-with-food\\StructuralPattern\\StructuralPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\StructuralPattern\\StructuralPattern.csproj",
+        "projectUniqueName": "C:\\Personal\\Code\\design-pattern-explained-with-food\\StructuralPattern\\StructuralPattern.csproj",
         "projectName": "StructuralPattern",
-        "projectPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\StructuralPattern\\StructuralPattern.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\StructuralPattern\\obj\\",
+        "projectPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\StructuralPattern\\StructuralPattern.csproj",
+        "packagesPath": "C:\\Users\\SQ\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\StructuralPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -143,8 +143,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj": {
-                "projectPath": "E:\\Code\\Repos\\DesignPatternExplainedWithFood\\Dependencies\\Dependencies.csproj"
+              "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj": {
+                "projectPath": "C:\\Personal\\Code\\design-pattern-explained-with-food\\Dependencies\\Dependencies.csproj"
               }
             }
           }
@@ -179,7 +179,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
